@@ -1,6 +1,6 @@
 local highlights = {}
 
-local ColourUtility = require("samurai.colour_utility")
+local ColourUtility = require("samuraitheme.colour_utility")
 
 local styles = {
   bold = "bold",

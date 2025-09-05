@@ -20,7 +20,7 @@ util.load = function(generated_syntax)
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = "samurai"
+  vim.g.colors_name = "samuraitheme"
 
   util.generate_highlights(generated_syntax)
 end

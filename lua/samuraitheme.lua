@@ -1,6 +1,6 @@
-local util = require("samurai.util")
-local colours = require("samurai.colours")
-local highlights = require("samurai.highlights")
+local util = require("samuraitheme.util")
+local colours = require("samuraitheme.colours")
+local highlights = require("samuraitheme.highlights")
 
 local M = {}
 

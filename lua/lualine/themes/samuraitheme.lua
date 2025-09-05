@@ -1,5 +1,5 @@
-local palettes = require("samurai.colours")
-local config = require("samurai").config
+local palettes = require("samuraitheme.colours")
+local config = require("samuraitheme").config
 
 local palette = palettes.generate_palette(config)
 
